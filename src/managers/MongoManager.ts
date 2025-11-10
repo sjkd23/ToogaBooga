@@ -544,7 +544,8 @@ export namespace MongoManager {
                     // Sunday at 12:00 AM
                     dayOfWeek: 0,
                     time: 0
-                }
+                },
+                panelEndTime: null
             }
         };
     }
